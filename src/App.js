@@ -2,7 +2,7 @@
 
 function App() {
   return (
-    <div>
+    <div className="text-indigo-700 text-5xl font-extrabold">
       HOLA MUNDO
     </div>
   );
